@@ -5,7 +5,8 @@ name = "bl4ck54m"
 
 #About me
 about_me = "proud husband and father"
-interests = ["penetration testing", "defensive security", "programming"]
+interests = ["linux", "computer networking", "penetration testing", "defensive security", "programming"]
+certifications = ["IT Support", "and I'm working on my PJPT"]
 learning = "intermediate penetration testing"
 hobbies = ["reading", "writing", "collecting Star Wars Black Series figures"]
 
@@ -18,6 +19,9 @@ print(f"I'm currently learning {learning}.")
 print("My interests include:")
 for interest in interests:
     print("- " + interest)
+print("I am certified in:")
+for certification in certifications:
+    print("- " + certification)
 print("My hobbies include:")
 for hobby in hobbies:
     print("- " + hobby)
