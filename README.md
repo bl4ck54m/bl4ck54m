@@ -1,20 +1,17 @@
 #!/bin/python3
 
-# Define your name
+#Name
 name = "bl4ck54m"
 
-# Define your interests in a list
-interests = ["penetration testing", "defensive security", "programming"]
-
-# Additional information
+#About me
 about_me = "proud husband and father"
+interests = ["penetration testing", "defensive security", "programming"]
 learning = "intermediate penetration testing"
 hobbies = ["reading", "writing", "collecting Star Wars Black Series figures"]
 
-# Say good-bye
+#Say good-bye
 goodbye = "Thank you for visiting my page!"
 
-# Print your name, current learning interest, other interests, hobbies, and father status
 print(f"My name is {name}.")
 print(f"I'm a {about_me}.")
 print(f"I'm currently learning {learning}.")
