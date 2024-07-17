@@ -6,8 +6,8 @@ name = "bl4ck54m"
 #About me
 about_me = "proud husband and father"
 interests = ["linux", "computer networking", "penetration testing", "defensive security", "programming"]
-certifications = ["IT Support", "and I'm working on my PJPT"]
-learning = "intermediate penetration testing"
+certifications = ["IT Support", "and I'm about to pwn the PJPT exam"]
+learning = "penetration testing"
 hobbies = ["reading", "writing", "collecting Star Wars Black Series figures"]
 
 #Say good-bye
