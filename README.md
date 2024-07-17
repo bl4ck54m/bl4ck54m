@@ -8,7 +8,7 @@ about_me = "proud husband and father"
 interests = ["linux", "computer networking", "penetration testing", "defensive security", "programming"]
 certifications = ["IT Support", "and I'm about to pwn the PJPT exam"]
 learning = "penetration testing"
-hobbies = ["reading", "writing", "collecting Star Wars Black Series figures"]
+hobbies = ["reading", "writing", "watching anime", "collecting Star Wars Black Series figures"]
 
 #Say good-bye
 goodbye = "Thank you for visiting my page!"
